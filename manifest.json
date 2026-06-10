@@ -1,0 +1,26 @@
+{
+  "name": "Stock Clínicas · Dentalsaúde",
+  "short_name": "Stock",
+  "description": "Gestão de stock das clínicas de Paredes e Póvoa de Lanhoso",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1B92C6",
+  "theme_color": "#1B92C6",
+  "lang": "pt-PT",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
